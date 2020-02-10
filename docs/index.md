@@ -21,8 +21,16 @@ SWET(Software Engineer in Test)グループのミッション・ビジョン・�
   - DeNA 内で利用される共通的なサービスの開発(Ruby on Rails)と運用およびそれらを利用した制度の設計
   - DeNA 内のテスト全般に関する相談対応
 - 対外活動
-  - Test Engineers Meetup #3 登壇 https://speakerdeck.com/okitan/swetfalsexian-zai-tokorekara
-  - DeNA TechCon 2017 登壇 https://speakerdeck.com/okitan/denafalsequ-rizu-mutesutoensiniarinku
+  - Test Engineers Meetup #3 登壇
+    - [https://speakerdeck.com/okitan/swetfalsexian-zai-tokorekara](https://speakerdeck.com/okitan/swetfalsexian-zai-tokorekara)
+  - DeNA TechCon 2017 登壇
+    - [https://speakerdeck.com/okitan/denafalsequ-rizu-mutesutoensiniarinku](https://speakerdeck.com/okitan/denafalsequ-rizu-mutesutoensiniarinku)
+  - エンジニア中途採用サイトインタビュー
+    - [https://dena.com/jp/recruit/career/engineer/interview/kunio-okita.html](https://dena.com/jp/recruit/career/engineer/interview/kunio-okita.html)
+  - DeNA フルスイング Blog インタビュー
+    - [https://fullswing.dena.com/archives/100](https://fullswing.dena.com/archives/100)
+  - Qiita::Team 導入事例インタビュー
+    - [https://teams.qiita.com/customers/dena/](https://teams.qiita.com/customers/dena/)
 
 #### アライアンス事業における品質管理プロセスの構築と自動テスト [2015-04〜2017-03]
 
@@ -36,11 +44,12 @@ SWET(Software Engineer in Test)グループのミッション・ビジョン・�
   - JSON Schema による API テスト自動生成の確立
   - 数千万 HAU 規模を想定した負荷テスト環境および負荷テストスクリプトの開発
 - 対外活動
-  - Test Engineers Meetup #2 登壇 https://speakerdeck.com/okitan/microservicesniokeruapizi-dong-tesutonimatuwaruetosetora
+  - Test Engineers Meetup #2 登壇
+    - [https://speakerdeck.com/okitan/microservicesniokeruapizi-dong-tesutonimatuwaruetosetora](https://speakerdeck.com/okitan/microservicesniokeruapizi-dong-tesutonimatuwaruetosetora)
 
 #### Mobage Open Platform に対する自動テストを用いたリリース高速化 [2012-04〜2015-03]
 
-それまで人力で動作確認をしてからリリースしていた Mobage Open Platform に対してテストの自動化を行い、
+それまで人力で動作確認をしてからリリースしていた、Mobage Open Platform に対してテストの自動化を行い、
 誰でも CI による自動テスト結果をもとに安心してリリースできるようプロセスを構築した。
 また、それによりクロスボーダー戦略（韓国・中国および mixi との協業プラットフォーム）に基づいた新プラットフォームを素早く実現できるようにした
 
@@ -68,7 +77,8 @@ SWET(Software Engineer in Test)グループのミッション・ビジョン・�
   - Jenkins を利用した CI/CD パイプラインの構築
   - TDD・ペアプログラミングによるチームメンバーの教育
 - 対外活動
-  - Jenkins Advent Calendar 2011 寄稿 https://okitan.tumblr.com/post/14597752454/jenkins-advent-calendar-2011
+  - Jenkins Advent Calendar 2011 寄稿
+    - [https://okitan.tumblr.com/post/14597752454/jenkins-advent-calendar-2011](https://okitan.tumblr.com/post/14597752454/jenkins-advent-calendar-2011])
 
 #### UCS 事業(遠隔会議システム事業)の開発 [2008-04〜2010-10]
 
@@ -105,8 +115,7 @@ UCS 事業(テレビ会議システム)におけるインフラ設計・開発�
 
 ## リンク
 
-- https://github.com/okitan
-- https://qiita.com/okitan
-- https://speakerdeck.com/okitan
-- https://www.amazon.co.jp/%E6%B2%96%E7%94%B0-%E9%82%A6%E5%A4%AB/e/B07JJ63LMW
-
+- [https://github.com/okitan](https://github.com/okitan)
+- [https://qiita.com/okitan](https://qiita.com/okitan)
+- [https://speakerdeck.com/okitan](https://speakerdeck.com/okitan)
+- [https://www.amazon.co.jp/%E6%B2%96%E7%94%B0-%E9%82%A6%E5%A4%AB/e/B07JJ63LMW](https://www.amazon.co.jp/%E6%B2%96%E7%94%B0-%E9%82%A6%E5%A4%AB/e/B07JJ63LMW)
