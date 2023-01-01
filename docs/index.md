@@ -4,10 +4,6 @@
 
 沖田 邦夫
 
-### 得意なこと・お役に立てそうなこと
-
-T.B.D.
-
 ## 職務経歴
 
 ### 株式会社ディー・エヌ・エー [2012-04〜現在]
@@ -20,8 +16,11 @@ T.B.D.
 - 役割
   - 品質管理部（200 名規模）の組織の成長戦略の推進
   - 品質管理部内の管理者のマネージメント
+- 対外活動
+  - [DeNA テクノロジーレポート 品質管理編](https://speakerdeck.com/dena_tech/technology_report_quality_control)
+  - [DeNA品質管理部を支えるカルチャーと取り組み](https://speakerdeck.com/okitan/denapin-zhi-guan-li-bu-wozhi-erukarutiyatoqu-rizu-mi)
 
-#### 全社技術ブランディング・エンジニア組織の支援 [2020-11〜現在]
+#### 全社技術ブランディング・エンジニア組織の支援 [2020-11〜2022-09]
 
 CTO 室の兼務にて、全社の技術ブランディングや、エンジニアリングマネージャの支援といった全社の組織開発に取り組んでいる。
 
@@ -30,7 +29,7 @@ CTO 室の兼務にて、全社の技術ブランディングや、エンジニ�
   - 社内のエンジニアリングマネージャ支援のための各種施策の立案実施
   - エンジニアの開発環境・成長環境支援施策の立案実施
 
-#### SWET グループのマネージメントとブランディング [2016-05〜現在]
+#### SWET グループのマネージメントとブランディング [2016-05〜2022-09]
 
 SWET(Software Engineer in Test)グループのミッション・ビジョン・目標を明確にし、チームメンバーがブレることなく、目標に向かってやりがいをもって業務に当たれるようマネージメントを行っている。
 また、DeNA Testing Blog の連載や Test Night の開催などブランディング活動を通じて、優秀なテストエンジニアの採用を行ってきて、日本を代表するテストエンジニア集団を実現した。
@@ -48,13 +47,13 @@ SWET(Software Engineer in Test)グループのミッション・ビジョン・�
   - DeNA 内のテスト全般に関する相談対応
 - 対外活動
   - Test Engineers Meetup #3 登壇
-    - [https://speakerdeck.com/okitan/swetfalsexian-zai-tokorekara](https://speakerdeck.com/okitan/swetfalsexian-zai-tokorekara)
+    - [SWETの現在とこれから](https://speakerdeck.com/okitan/swetfalsexian-zai-tokorekara)
   - DeNA TechCon 2017 登壇
-    - [https://speakerdeck.com/okitan/denafalsequ-rizu-mutesutoensiniarinku](https://speakerdeck.com/okitan/denafalsequ-rizu-mutesutoensiniarinku)
+    - [DeNAの取り組むテストエンジニアリング](https://speakerdeck.com/okitan/denafalsequ-rizu-mutesutoensiniarinku)
   - エンジニア中途採用サイトインタビュー
     - [https://dena.com/jp/recruit/career/engineer/interview/kunio-okita.html](https://dena.com/jp/recruit/career/engineer/interview/kunio-okita.html)
   - DeNA フルスイング Blog インタビュー
-    - [https://fullswing.dena.com/archives/100](https://fullswing.dena.com/archives/100)
+    - [テストのスペシャリスト集団！SWETが、DeNAの品質・生産性を支えられる理由](https://fullswing.dena.com/archives/100)
   - Qiita::Team 導入事例インタビュー
     - [https://teams.qiita.com/customers/dena/](https://teams.qiita.com/customers/dena/)
 
@@ -71,7 +70,7 @@ SWET(Software Engineer in Test)グループのミッション・ビジョン・�
   - 数千万 HAU 規模を想定した負荷テスト環境および負荷テストスクリプトの開発
 - 対外活動
   - Test Engineers Meetup #2 登壇
-    - [https://speakerdeck.com/okitan/microservicesniokeruapizi-dong-tesutonimatuwaruetosetora](https://speakerdeck.com/okitan/microservicesniokeruapizi-dong-tesutonimatuwaruetosetora)
+    - [microservicesにおけるAPI自動テストにまつわるエトセトラ](https://speakerdeck.com/okitan/microservicesniokeruapizi-dong-tesutonimatuwaruetosetora)
 
 #### Mobage Open Platform に対する自動テストを用いたリリース高速化 [2012-04〜2015-03]
 
@@ -104,7 +103,7 @@ SWET(Software Engineer in Test)グループのミッション・ビジョン・�
   - TDD・ペアプログラミングによるチームメンバーの教育
 - 対外活動
   - Jenkins Advent Calendar 2011 寄稿
-    - [https://okitan.tumblr.com/post/14597752454/jenkins-advent-calendar-2011](https://okitan.tumblr.com/post/14597752454/jenkins-advent-calendar-2011])
+    - [jenkins でビューを色々いじると仕事が捗る #jenkinsci](https://okitan.tumblr.com/post/14597752454/jenkins-advent-calendar-2011)
 
 #### UCS 事業(遠隔会議システム事業)の開発 [2008-04〜2010-10]
 
