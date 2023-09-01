@@ -16,9 +16,14 @@
 - 役割
   - 品質管理部（200 名規模）の組織の成長戦略の推進
   - 品質管理部内の管理者のマネージメント
+- 担当業務
+  - DeNA グループ全体の品質体制の構築
+  - 品質管理組織のキャリアラダーと教育体系の構築
+  - 品質管理職のジョブディスクリプションの明確化と採用活動の改善
+  - 品質管理組織のミッション・ビジョン・バリューの策定とその定着のための組織施策の立案実施
 - 対外活動
   - [DeNA テクノロジーレポート 品質管理編](https://speakerdeck.com/dena_tech/technology_report_quality_control)
-  - [DeNA品質管理部を支えるカルチャーと取り組み](https://speakerdeck.com/okitan/denapin-zhi-guan-li-bu-wozhi-erukarutiyatoqu-rizu-mi)
+  - [DeNA 品質管理部を支えるカルチャーと取り組み](https://speakerdeck.com/okitan/denapin-zhi-guan-li-bu-wozhi-erukarutiyatoqu-rizu-mi)
 
 #### 全社技術ブランディング・エンジニア組織の支援 [2020-11〜2022-09]
 
@@ -47,13 +52,13 @@ SWET(Software Engineer in Test)グループのミッション・ビジョン・�
   - DeNA 内のテスト全般に関する相談対応
 - 対外活動
   - Test Engineers Meetup #3 登壇
-    - [SWETの現在とこれから](https://speakerdeck.com/okitan/swetfalsexian-zai-tokorekara)
+    - [SWET の現在とこれから](https://speakerdeck.com/okitan/swetfalsexian-zai-tokorekara)
   - DeNA TechCon 2017 登壇
-    - [DeNAの取り組むテストエンジニアリング](https://speakerdeck.com/okitan/denafalsequ-rizu-mutesutoensiniarinku)
+    - [DeNA の取り組むテストエンジニアリング](https://speakerdeck.com/okitan/denafalsequ-rizu-mutesutoensiniarinku)
   - エンジニア中途採用サイトインタビュー
     - [https://dena.com/jp/recruit/career/engineer/interview/kunio-okita.html](https://dena.com/jp/recruit/career/engineer/interview/kunio-okita.html)
   - DeNA フルスイング Blog インタビュー
-    - [テストのスペシャリスト集団！SWETが、DeNAの品質・生産性を支えられる理由](https://fullswing.dena.com/archives/100)
+    - [テストのスペシャリスト集団！SWET が、DeNA の品質・生産性を支えられる理由](https://fullswing.dena.com/archives/100)
   - Qiita::Team 導入事例インタビュー
     - [https://teams.qiita.com/customers/dena/](https://teams.qiita.com/customers/dena/)
 
@@ -70,7 +75,7 @@ SWET(Software Engineer in Test)グループのミッション・ビジョン・�
   - 数千万 HAU 規模を想定した負荷テスト環境および負荷テストスクリプトの開発
 - 対外活動
   - Test Engineers Meetup #2 登壇
-    - [microservicesにおけるAPI自動テストにまつわるエトセトラ](https://speakerdeck.com/okitan/microservicesniokeruapizi-dong-tesutonimatuwaruetosetora)
+    - [microservices における API 自動テストにまつわるエトセトラ](https://speakerdeck.com/okitan/microservicesniokeruapizi-dong-tesutonimatuwaruetosetora)
 
 #### Mobage Open Platform に対する自動テストを用いたリリース高速化 [2012-04〜2015-03]
 
